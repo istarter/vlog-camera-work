@@ -1,3 +1,21 @@
+## Pre Production Planning
+1: Intro
+2: Shoot date?
+3: Topic?
+4: Shoot Location?
+5: Vlog Subject
+6: Intro Vlog
+7: Interval
+8: Ending
+
+##  Production Tips
+1: Intro: Research about something unique and different. write in bullet points.
+2: Food and Culture
+3: Random Shot, Close Shot, Wide Shot, Medium Shot Cowboy Shot and Closeup Shot
+4: Shoot Composition
+5: Generic Ending: Personal experience of the place, location and weather and conclusion of your experience. 
+
+
 ### Shot Names and Example
 ![image](https://github.com/user-attachments/assets/6647bf94-81fb-462f-9b79-01cd749bff0f)
 
